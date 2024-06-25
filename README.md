@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently a graduate student at Tsinghua SIGS (Shenzhen International Graduate School), focusing on AI and software systems' reliablity.
+🔭 I’m currently a graduate student at Tsinghua SIGS, focusing on AI and software systems' reliablity.
 
 📫 How to reach me: dez23[AT]mails.tsinghua.edu.cn
 
