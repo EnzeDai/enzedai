@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently a graduate student at Tsinghua SIGS, focusing on software and AI systems' reliablity.
 
-⚒️ Programming Langs: Golang/Python/Java/C++..., and I’m currently learning Rust 🌱.
+⚒️ Programming Langs: Golang/Python/Java/C++/Verilog..., and I’m currently learning Rust 🌱.
 
 📫 How to reach me: dez23[AT]mails.tsinghua.edu.cn
 
